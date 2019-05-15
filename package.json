@@ -1,0 +1,33 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-navigation": "^3.9.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.0.0"
+  },
+  "private": true,
+  "name": "shopping-app",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-v/shopping-list-app.git"
+  },
+  "author": "Vanessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-v/shopping-list-app/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-v/shopping-list-app#readme",
+  "description": ""
+}
