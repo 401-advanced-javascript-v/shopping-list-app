@@ -9,7 +9,7 @@ This is an app help you manage your shopping list. You can add items into the sh
 
 ### Links and Resources
 * [repo](https://github.com/401-advanced-javascript-v/shopping-list-app)
-![Scan the code to use the app](./code.png)
+* ![Scan the code to use the app](./code.png)
 
 
 ### Assignments
