@@ -7,11 +7,6 @@
 
 This is an app help you manage your shopping list. You can add items into the shopping list, mark as complete or incomplete. 
 
-### Links and Resources
-* [repo](https://github.com/401-advanced-javascript-v/shopping-list-app)
-* ![Scan the code to use the app](./code.png)
-
-
 ### Assignments
 Create your first Phone App. What it does and how it looks is up to you. This is an opportunity to play around with whats possible in React Native and to get a feel for how you can get into the various device features.
 
